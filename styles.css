@@ -1,1 +1,41 @@
+.aboutMe {
+	display:flex;
+	gap:20px;
+}
 
+.left {
+	width:50%;
+	margin-top:30px;
+}
+.top {
+	display:flex;
+	justify-content:space-between;
+	gap:20px;
+}
+
+input {
+	width:100%;
+}
+
+.logos {
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+
+.right {
+	width:50%;
+	margin-top:30px;
+}
+
+h1{
+	font-size:25px;
+}
+
+hr {
+	width:60px;
+	margin:0;
+	height:2px;
+	color:blue;
+	background-color:blue;
+}
